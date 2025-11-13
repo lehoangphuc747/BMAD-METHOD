@@ -10,7 +10,7 @@ Tình trạng: cập nhật tự động thông qua Copilot TODOs.
 ## Danh sách công việc
 
 1. [x] Tạo cấu trúc thư mục `docs/vi` và các subfolder cần thiết (`docs/vi/ide-info`, `docs/vi/installers-bundlers`)
-2. [ ] Dịch `docs/v4-to-v6-upgrade.md` → `docs/vi/v4-to-v6-upgrade.md`
+2. [x] Dịch `docs/v4-to-v6-upgrade.md` → `docs/vi/v4-to-v6-upgrade.md`
 3. [ ] Dịch `docs/agent-customization-guide.md` → `docs/vi/agent-customization-guide.md`
 4. [ ] Dịch `docs/USING_WEB_BUNDLES.md` → `docs/vi/USING_WEB_BUNDLES.md`
 5. [ ] Dịch `docs/document-sharding-guide.md` → `docs/vi/document-sharding-guide.md`
