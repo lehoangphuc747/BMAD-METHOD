@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?logo=discord&logoColor=white)](https://discord.gg/gk8jAdXWmj)
+[![Language](https://img.shields.io/badge/English-blue)](./README.md)
+[![Tiếng Việt](https://img.shields.io/badge/Tiếng%20Việt-red)](./README.vi.md)
 
 > **🚨 Alpha Version Notice**
 >
